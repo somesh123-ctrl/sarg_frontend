@@ -67,3 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feel free to customize this README further based on additional details specific to your application, such as deployment instructions, testing procedures, or any special considerations. This document should serve as a comprehensive guide for anyone using or contributing to your React Spreadsheet component.
+![image](https://github.com/somesh123-ctrl/sarg_frontend/assets/55444715/537f3f54-d131-456e-a7ba-b788e44a2da8)

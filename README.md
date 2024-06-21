@@ -1,6 +1,4 @@
-Creating a README file for your React Spreadsheet component is essential for documenting its functionality, setup instructions, and any other pertinent details. Below is a basic template to get you started:
 
----
 
 # React Spreadsheet Component
 
